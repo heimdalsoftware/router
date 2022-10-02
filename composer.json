@@ -1,0 +1,23 @@
+{
+    "name": "heimdalsoftware/router",
+    "version": "1.0.0-alpha3",
+    "homepage": "https://www.heimdalsoftware.com/clinicalsupport",
+    "keywords": ["router", "routing"],
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "description": "A simple PHP router created for our web development purposes.",
+    "authors": [
+        {
+            "name": "Heimdal Softwaree",
+            "email": "support@heimdalsoftware.com",
+            "homepage": "https://www.heimdalsoftware.com"
+        }
+    ],
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=7.4"
+    }
+}
